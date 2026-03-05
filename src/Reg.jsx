@@ -17,7 +17,7 @@ function Reg() {
     try {
 
       const res = await axios.post(
-        "https://demoo-2.onrender.com/register",
+        "https://backend-technical-2.onrender.com/register",
         data
       )
 
